@@ -22,8 +22,5 @@ class Appointment
   def doctor
     @doctor
   end
-
-  
-  
-  
+ 
 end
