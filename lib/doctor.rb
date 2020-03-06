@@ -9,5 +9,9 @@ class Doctor
     @@all << self
   end
   
+  def appointments
+end
+
+  
   
 end
