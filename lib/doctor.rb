@@ -18,7 +18,7 @@ class Doctor
   end  
   
   def patients 
-    
+    appointments.map { || }
   end
 
 end
